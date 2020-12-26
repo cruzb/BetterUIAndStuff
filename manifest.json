@@ -1,0 +1,10 @@
+﻿{
+  "Name": "BetterUIAndStuff",
+  "Author": "quicheman",
+  "Version": "0.0.1",
+  "Description": "Tweaks and fixes that I wanted for the UI and quality of life.",
+  "UniqueID": "quicheman.BetterUIAndStuff",
+  "EntryDll": "BetterUIAndStuff.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
